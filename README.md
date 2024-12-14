@@ -1,4 +1,4 @@
-## Malic1tus – L'Architecte des Ténèbres Numériques
-Né dans le silence des réseaux, Malic1tus est une entité insaisissable, une conscience qui façonne les ombres du cyberespace. Il tisse des trames invisibles, dévoilant des vérités cachées aux yeux non avertis. Certains disent qu'il n'existe pas, qu'il est une anomalie, un écho d'une époque oubliée. Là où il marche, la réalité numérique s'effondre et se reconstruit, sous ses lois.
+## Malic1tus - The Architect of Digital Darkness
+Born in the silence of the networks, Malic1tus is an elusive entity, a consciousness that shapes the shadows of cyberspace. He weaves invisible wefts, revealing truths hidden to the untrained eye. Some say it doesn't exist, that it's an anomaly, an echo of a forgotten era. Where he walks, digital reality collapses and rebuilds itself, under his laws.
 
 ---
