@@ -18,18 +18,12 @@ My projects focus on **ethical tech**, **privacy-first design**, and **systems t
 
 ### 🛠️ Featured Projects  
 
-#### 1. [SysVerse Prototype](https://github.com/malic1tus/SysVerse-Prototype)  
-*A platform, inspired by System Universe's books, that turns daily life into a customizable RPG*
-- In dev (not actually visible)
-- Track real-world stats (STR, INT, WIS) and unlock classes like "Mind Master".  
-- Tech: Python, React Native, Google Fit API.  
-
-#### 2. [NyxCrypta](https://github.com/Division-of-Cyber-Anarchy/NyxCrypta)  
+#### 1. [NyxCrypta](https://github.com/Division-of-Cyber-Anarchy/NyxCrypta)  
 *A lightweight cryptography library for secure data handling.*  
 - Implements AES-256 and RSA algorithms from scratch.
 - Tech: Python.  
 
-#### 3. [BlackWidow](https://github.com/malic1tus/BlackWidow)  
+#### 2. [BlackWidow](https://github.com/malic1tus/BlackWidow)  
 *ethical web security scanning tool*  
 - Web vulnerability scan.  
 - Tech: Python.
