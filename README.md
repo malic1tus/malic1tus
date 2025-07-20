@@ -42,3 +42,6 @@ Let’s build ethical tech together:
 - [✉️ email](mailto:malic1tus@proton.me) 
 
 *Note: I use a pseudonym to protect my privacy while sharing my work with the world.*  
+
+[🎧](https://github.com/malic1tus/operation-laura)
+> "She never saw the repo. But it was always for her."
